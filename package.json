@@ -3,10 +3,15 @@
   "description": "Aplicação WEB para agendamento para corte de cabelo.",
   "author": "Douglas Hideki Matsudo",
   "scripts": {
-    "server": "json-server --watch server.json --port 3333"
+    "server": "json-server --watch server.json --port 3333",
+    "build": "webpack"
   },
   "dependencies": {
     "hairday": "file:",
     "json-server": "^1.0.0-alpha.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
   }
 }

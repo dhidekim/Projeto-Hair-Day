@@ -1,8 +1,12 @@
 {
+  "name": "hairday",
+  "description": "Aplicação WEB para agendamento para corte de cabelo.",
+  "author": "Douglas Hideki Matsudo",
   "scripts": {
     "server": "json-server --watch server.json --port 3333"
   },
   "dependencies": {
+    "hairday": "file:",
     "json-server": "^1.0.0-alpha.21"
   }
 }

@@ -1,3 +1,14 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": 1724347464079,
+      "name": "Douglas H Matsudo",
+      "when": "2024-08-22T22:00:00.000Z"
+    },
+    {
+      "id": 1724347499821,
+      "name": "Douglas H Matsudo",
+      "when": "2024-08-22T23:00:00.000Z"
+    }
+  ]
 }
